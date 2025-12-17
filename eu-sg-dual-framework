@@ -1,0 +1,165 @@
+**Regulatory & Compliance Appendix
+
+(EU / Singapore Dual Framework)**
+
+⸻
+
+Appendix A｜整体合规设计原则
+
+ADOPT.GOLD 生态在设计之初即采用 Jurisdictional Separation & Functional Separation 原则：
+	1.	功能分离
+	•	生态参与（eMA$）
+	•	融资与结算（eMA$X）
+	2.	主体分离
+	•	用户参与层 ≠ 企业融资层
+	•	OTC 使用场景 ≠ 交易所流通场景
+	3.	司法辖区分离
+	•	新加坡：公司融资与结算架构
+	•	欧盟（爱沙尼亚）：数字资产技术与合规运营
+
+⸻
+
+Appendix B｜Singapore Compliance Framework
+
+B1. 公司主体
+	•	公司名称：XTOKEN PTE. LTD.
+	•	注册地：新加坡
+	•	法律属性：私人有限公司
+
+⸻
+
+B2. eMA$（在新加坡的合规定位）
+	•	定位：Utility / Functional Digital Token
+	•	不具备：
+	•	股权属性
+	•	债权属性
+	•	收益分红承诺
+	•	不作为融资工具
+	•	不构成《Securities and Futures Act》下的 Capital Markets Product
+
+📌 eMA$ 不在新加坡向公众进行证券式销售。
+
+⸻
+
+B3. eMA$X（在新加坡的合规定位）
+	•	定位：Digital Settlement Asset
+	•	用途：
+	•	内部结算
+	•	融资轮记账
+	•	机构间清算
+	•	不向零售公众作为投资产品推广
+
+📌 eMA$X 不构成：
+	•	Shares
+	•	Debentures
+	•	Units in collective investment schemes
+
+⸻
+
+B4. 关于支付与结算
+	•	eMA$X 的流通与支付通过 合规交易平台与支付合作方
+	•	AUXSTO U Card 属于第三方支付工具
+	•	XTOKEN PTE. LTD. 不直接提供支付或储值服务
+
+⸻
+
+Appendix C｜European Union (Estonia) Compliance Framework
+
+C1. 公司主体
+	•	公司名称：XTOKEN OÜ
+	•	注册地：爱沙尼亚
+	•	法律属性：EU 私人有限公司
+
+⸻
+
+C2. eMA$X 在欧盟的定位
+	•	定位：Virtual Asset / Digital Value Representation
+	•	非：
+	•	法定货币
+	•	电子货币（E-money）
+	•	证券型代币（Security Token）
+
+📌 eMA$X 不构成 MiFID II 下的 Financial Instrument。
+
+⸻
+
+C3. 与 MiCA（Markets in Crypto-Assets Regulation）的关系
+	•	eMA$X 不承诺固定回报
+	•	不授予持有人公司治理权
+	•	不构成 Asset-Referenced Token（ART）
+	•	不构成 E-Money Token（EMT）
+
+eMA$X 仅用于：
+	•	内部结算
+	•	融资轮清算
+	•	技术与商业系统对接
+
+⸻
+
+C4. 技术与运营职责
+	•	XTOKEN OÜ 负责：
+	•	技术开发
+	•	智能合约部署
+	•	链上数据记录
+	•	不承担：
+	•	投资建议
+	•	收益承诺
+	•	资金托管义务
+
+⸻
+
+Appendix D｜NFT 与 Burn 机制的合规说明
+
+D1. NFT 的法律定位
+	•	NFT 代表：
+	•	参与资格
+	•	使用权凭证
+	•	不代表：
+	•	黄金所有权
+	•	收益分配权
+	•	金融合约权利
+
+⸻
+
+D2. Burn 的合规意义
+
+Burn 被定义为：
+	•	不可逆的链上使用行为
+	•	数字化“消费 / 使用”动作
+	•	非投资、非换汇、非回购
+
+其目的是：
+	•	防止资格重复生成
+	•	确保参与行为真实
+	•	降低被认定为证券或衍生品的风险
+
+⸻
+
+Appendix E｜风险披露（Standard Disclosure）
+
+参与 ADOPT.GOLD 生态涉及但不限于以下风险：
+	•	市场风险
+	•	技术风险
+	•	法规变化风险
+	•	运营风险
+
+数字资产价格可能波动，
+参与不构成任何形式的收益保证。
+
+⸻
+
+Appendix F｜统一合规声明（对外标准文本）
+
+The ADOPT.GOLD ecosystem operates under a dual-jurisdiction framework with functional separation between participation tokens and settlement assets.
+
+Neither eMA$ nor eMA$X represents equity, debt, profit-sharing rights, or legal tender.
+
+Participation is voluntary and subject to market and operational risks. No guaranteed returns are provided.
+
+⸻
+
+终极合规总结（一句话）
+
+新加坡负责“钱怎么进出”，
+欧盟负责“系统怎么跑”，
+领养资格只存在于链上行为，不存在于金融承诺中。
